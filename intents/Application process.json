@@ -1,0 +1,75 @@
+{
+  "id": "5bfedcd1-3b88-475e-b293-49d9c0ee5603",
+  "name": "Application process",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Here is the link to the sites:"
+        },
+        {
+          "type": "browse_carousel_card",
+          "platform": "google",
+          "lang": "en",
+          "items": [
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://research.adobe.com/adobe-india-women-in-technology-scholarship/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "optionInfo": {
+                "synonyms": []
+              },
+              "title": "Adobe India Women In Tech Scholarship",
+              "description": "At Adobe, we’re focused on bringing together the smartest, most driven, diverse set of individuals and give them the freedom to nurture their intellectual curiosity. We provide them with the necessary resources and support to shape their ideas into tangible results.",
+              "image": {
+                "url": "https://research.adobe.com/wp-content/uploads/2017/08/AdobeStock_127885712_s.jpg",
+                "accessibilityText": "Fresh Ideas"
+              }
+            },
+            {
+              "footer": "Go to rethink wiki",
+              "openUrlAction": {
+                "url": "https://wiki.rethinkfoundation.in/Adobe_Women_in_Tech_Scholarship",
+                "urlTypeHint": "AMP_CONTENT"
+              },
+              "optionInfo": {
+                "synonyms": []
+              },
+              "title": "Rethink wiki",
+              "description": "Through the Adobe India Women in Technology Scholarship, we are striving towards creating gender equality in science, technology and engineering domains by encouraging women to excel in computing and technology and become future leaders and role models in the field.",
+              "image": {
+                "url": "https://wiki.rethinkfoundation.in/images/2/20/Adobe.png",
+                "accessibilityText": "Adobe"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Okay. So you need to submit your resume, academic transcripts from your current or past institutes, one recommendation letter from a professor. You also have to answer to five essay questions. A multimedia submission is also asked for, but it is optional.\nPlease feel free to look up the information either on Adobe Scholarship page or  Rethink wiki page.  The link to the scholarship walk-through is also provided below in the wiki page.\n Is there anything else that you want to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537553709,
+  "fallbackIntent": false,
+  "events": []
+}

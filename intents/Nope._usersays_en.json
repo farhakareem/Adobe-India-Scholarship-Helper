@@ -1,0 +1,20 @@
+[
+  {
+    "id": "abc0d161-12f8-4a76-bed5-c989a302cf31",
+    "data": [
+      {
+        "text": "Nope",
+        "alias": "Nope",
+        "meta": "@Nope",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537533099
+  }
+]

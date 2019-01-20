@@ -1,0 +1,60 @@
+{
+  "id": "1c9a8d41-444b-4290-a416-c4083364d6be",
+  "name": "previous scholars",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "24edef71-01ec-424c-bd02-79f5e55689af",
+          "required": true,
+          "dataType": "@scholars",
+          "name": "scholars",
+          "value": "$scholars",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "RETHINK wiki",
+          "subtitle": "Adobe India Women In Tech Scholarship",
+          "formattedText": "Through the Adobe India Women in Technology Scholarship, we are striving towards creating gender equality in science, technology and engineering domains by encouraging women to excel in computing and technology and become future leaders and role models in the field.",
+          "image": {
+            "url": "https://wiki.rethinkfoundation.in/images/2/20/Adobe.png",
+            "accessibilityText": "Adobe"
+          },
+          "buttons": [
+            {
+              "title": "Go to rethink wiki",
+              "openUrlAction": {
+                "url": "https://wiki.rethinkfoundation.in/Adobe_Women_in_Tech_Scholarship",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ayushi Mrigen, Aashaka Shah and Anjali Yadav won the scholarship in the year 2016. You can look through Ayushi\u0027s winning application and watch her recorded live video in Rethink\u0027s wiki page.The link is provided below. Is there anything else that you want to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537553986,
+  "fallbackIntent": false,
+  "events": []
+}

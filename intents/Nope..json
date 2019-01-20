@@ -1,0 +1,59 @@
+{
+  "id": "1adee935-749e-43bf-b91a-11f9a8088dfb",
+  "name": "Nope.",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "346f5094-b280-4948-a79f-4eac71909ad5",
+          "required": false,
+          "dataType": "@Nope",
+          "name": "Nope",
+          "value": "$Nope",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Adobe India Women in Tech Scholarship",
+          "formattedText": "Through the Adobe India Women in Technology Scholarship, we are striving towards creating gender equality in science, technology and engineering domains by encouraging women to excel in computing and technology and become future leaders and role models in the field.",
+          "image": {
+            "url": "https://research.adobe.com/wp-content/uploads/2017/08/AdobeStock_127885712_s.jpg",
+            "accessibilityText": "Fresh Ideas"
+          },
+          "buttons": [
+            {
+              "title": "Go to website",
+              "openUrlAction": {
+                "url": "https://research.adobe.com/adobe-india-women-in-technology-scholarship/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thank you for interacting with me. If there is anything else that you want to know please feel free to ping me or you could visit the Adobe India WIT scholarship website to get more details. Good luck! Bye."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537550019,
+  "fallbackIntent": false,
+  "events": []
+}

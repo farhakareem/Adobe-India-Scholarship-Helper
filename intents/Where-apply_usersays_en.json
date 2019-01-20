@@ -1,0 +1,142 @@
+[
+  {
+    "id": "32d1f6eb-69cd-41cc-a0c4-67969ba8efc8",
+    "data": [
+      {
+        "text": "Share the link to the ",
+        "userDefined": false
+      },
+      {
+        "text": "website",
+        "alias": "website",
+        "meta": "@website",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537540528
+  },
+  {
+    "id": "aef37fac-7886-49bd-b0f6-5e1374fe1e29",
+    "data": [
+      {
+        "text": "Share the link of the ",
+        "userDefined": false
+      },
+      {
+        "text": "website",
+        "alias": "website",
+        "meta": "@website",
+        "userDefined": true
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537540528
+  },
+  {
+    "id": "ad9447d7-74f9-409b-8351-e8ce7c01d5e8",
+    "data": [
+      {
+        "text": "Adobe ",
+        "userDefined": false
+      },
+      {
+        "text": "scholarship",
+        "alias": "scholarship",
+        "meta": "@scholarship",
+        "userDefined": false
+      },
+      {
+        "text": " website link?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537540439
+  },
+  {
+    "id": "f3501d2a-5b09-4f3f-a7c4-78b5bb68cd62",
+    "data": [
+      {
+        "text": "link to the ",
+        "userDefined": false
+      },
+      {
+        "text": "website",
+        "alias": "website",
+        "meta": "@website",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537540528
+  },
+  {
+    "id": "f6ab9bca-afed-42c8-8f0a-38ac86ba35f2",
+    "data": [
+      {
+        "text": "Where is the link to the ",
+        "userDefined": false
+      },
+      {
+        "text": "website",
+        "alias": "website",
+        "meta": "@website",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537540528
+  },
+  {
+    "id": "1740fd87-7bed-4a63-9701-e22634c0d6a8",
+    "data": [
+      {
+        "text": "Can you share the ",
+        "userDefined": false
+      },
+      {
+        "text": "link",
+        "alias": "website",
+        "meta": "@website",
+        "userDefined": true
+      },
+      {
+        "text": " with me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537540528
+  },
+  {
+    "id": "2ac7cebe-b08d-4105-9dee-9a4adbe04e27",
+    "data": [
+      {
+        "text": "Where do I apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537534039
+  }
+]

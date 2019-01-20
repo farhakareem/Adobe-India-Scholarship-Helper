@@ -1,0 +1,96 @@
+[
+  {
+    "id": "9e369066-6731-4511-a233-ae63c6b80d6f",
+    "data": [
+      {
+        "text": "tell me about this ",
+        "userDefined": false
+      },
+      {
+        "text": "scholarship",
+        "alias": "scholarship",
+        "meta": "@scholarship",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537531666
+  },
+  {
+    "id": "1b85a3f1-c673-45d6-bd9d-e6dce1b7be96",
+    "data": [
+      {
+        "text": "What is this ",
+        "userDefined": false
+      },
+      {
+        "text": "scholarship",
+        "alias": "scholarship",
+        "meta": "@scholarship",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537531666
+  },
+  {
+    "id": "f5963772-d9e1-457f-88cf-421ee9420cf7",
+    "data": [
+      {
+        "text": "What is this ",
+        "userDefined": false
+      },
+      {
+        "text": "scholarship",
+        "alias": "scholarship",
+        "meta": "@scholarship",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "offering",
+        "alias": "offering",
+        "meta": "@offering",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537531666
+  },
+  {
+    "id": "bc8a30ab-3061-4b97-b92d-7feaaba0b305",
+    "data": [
+      {
+        "text": "What are the outcomes of getting this ",
+        "userDefined": false
+      },
+      {
+        "text": "scholarship",
+        "alias": "scholarship",
+        "meta": "@scholarship",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537531666
+  }
+]

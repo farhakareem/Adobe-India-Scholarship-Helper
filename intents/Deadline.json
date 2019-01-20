@@ -1,0 +1,60 @@
+{
+  "id": "7f61cf9f-d39e-47b6-adc2-afbbefa4f8ed",
+  "name": "Deadline",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "deadline",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "851ea326-61f4-439e-be3e-1853654e0e46",
+          "required": true,
+          "dataType": "@deadline",
+          "name": "deadline",
+          "value": "$deadline",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Adobe India Women In Tech Opportunity",
+          "formattedText": "Through the Adobe India Women in Technology Scholarship, we are striving towards creating gender equality in science, technology and engineering domains by encouraging women to excel in computing and technology and become future leaders and role models in the field.",
+          "image": {
+            "url": "https://research.adobe.com/wp-content/uploads/2017/08/AdobeStock_127885712_s.jpg",
+            "accessibilityText": "Fresh Ideas"
+          },
+          "buttons": [
+            {
+              "title": "Go to website",
+              "openUrlAction": {
+                "url": "https://research.adobe.com/adobe-india-women-in-technology-scholarship/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The deadline for the application is on 14th of October 2018. The deadline for the recommendation letter is on 21st October 2018. You can apply from the link given below. Anything else that you would like to know?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537598383,
+  "fallbackIntent": false,
+  "events": []
+}

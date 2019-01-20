@@ -1,0 +1,19 @@
+[
+  {
+    "value": "deadline",
+    "synonyms": [
+      "deadline",
+      "last date",
+      "final date",
+      "finishing date",
+      "target date",
+      "target time"
+    ]
+  },
+  {
+    "value": "close",
+    "synonyms": [
+      "close"
+    ]
+  }
+]

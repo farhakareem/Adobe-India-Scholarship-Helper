@@ -1,0 +1,66 @@
+{
+  "id": "9af4bc56-9890-4910-bd23-90ab1ca804a4",
+  "name": "about scholarship",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cb8a6b5e-0637-4d56-a126-0772e31376f6",
+          "required": false,
+          "dataType": "@offering",
+          "name": "offering",
+          "value": "$offering",
+          "isList": false
+        },
+        {
+          "id": "e3dcebbc-c1dd-4179-b9e7-6f8caf156985",
+          "required": false,
+          "dataType": "@scholarship",
+          "name": "scholarship",
+          "value": "$scholarship",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Adobe India Women In Tech Scholarship",
+          "formattedText": "At Adobe, we’re focused on bringing together the smartest, most driven, diverse set of individuals and give them the freedom to nurture their intellectual curiosity. We provide them with the necessary resources and support to shape their ideas into tangible results.",
+          "image": {
+            "url": "https://research.adobe.com/wp-content/uploads/2017/08/AdobeStock_127885712_s.jpg",
+            "accessibilityText": "fresh ideas"
+          },
+          "buttons": [
+            {
+              "title": "Go to website",
+              "openUrlAction": {
+                "url": "https://research.adobe.com/adobe-india-women-in-technology-scholarship/"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "THE SCHOLARSHIP WILL COVER:\n\nFund toward tuition fees for the remainder of the award recipient’s university education ending in academic year 2019-20.\nAlso, you will get an opportunity for Summer Internship at Adobe India in 2019.\nYou will also be given mentoring by a senior technology leader from Adobe.\nYou may also travel to Grace Hopper Conference India, with the participation fee covered.\nThe link to the Adobe India scholarship website is provided below.\nIs there anything else that you would like to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537554690,
+  "fallbackIntent": false,
+  "events": []
+}

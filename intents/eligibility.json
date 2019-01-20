@@ -1,0 +1,73 @@
+{
+  "id": "11dd8670-d22e-481f-9764-dcd8999665d8",
+  "name": "eligibility",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4574aec6-7099-4de5-bea3-78ba9453b8f6",
+          "required": false,
+          "dataType": "@scholarship",
+          "name": "scholarship",
+          "value": "$scholarship",
+          "isList": false
+        },
+        {
+          "id": "ac33650e-eac9-431e-bb18-bbf47e9207d9",
+          "required": false,
+          "dataType": "@offering",
+          "name": "offering",
+          "value": "$offering",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Adobe India Women In Tech Scholarship",
+          "formattedText": "Through the Adobe India Women in Technology Scholarship, we are striving towards creating gender equality in science, technology and engineering domains by encouraging women to excel in computing and technology and become future leaders and role models in the field.",
+          "image": {
+            "url": "https://research.adobe.com/wp-content/uploads/2017/08/AdobeStock_127885712_s.jpg",
+            "accessibilityText": "Fresh Ideas!"
+          },
+          "buttons": [
+            {
+              "title": "Go to website",
+              "openUrlAction": {
+                "url": "https://research.adobe.com/adobe-india-women-in-technology-scholarship/"
+              }
+            }
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "destinationName": "RETHINK wiki",
+          "url": "https://wiki.rethinkfoundation.in/Adobe_Women_in_Tech_Scholarship"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To be eligible for the 2019 Adobe India Women in Technology Scholarship, applicants must meet the following criteria:\n\nYou must be an Indian female citizen student, enrolled in a formal technology 4 year B.Tech education program or an Integrated ME/MS/MTech and should be completing it in Academic year 2019-20.\nYou should be pursuing a Major or Minor in the following streams: Computer Science/Engineering, Information Science, Data Science, Electrical/Electronics Engineering, Math and Computing.\nTo know more visit Adobe India scholarship page or visit the rethink wiki page, the link is provided below.\n\nAnything else that you would like to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537548248,
+  "fallbackIntent": false,
+  "events": []
+}

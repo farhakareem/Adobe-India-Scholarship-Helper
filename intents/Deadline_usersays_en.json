@@ -1,0 +1,175 @@
+[
+  {
+    "id": "02132673-be4a-4bd5-b240-5162aecac8c4",
+    "data": [
+      {
+        "text": "tell me when the ",
+        "userDefined": false
+      },
+      {
+        "text": "last date",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " to apply is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537454468
+  },
+  {
+    "id": "be504301-3ec0-4217-a21f-a32eb468f681",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "deadline",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537456318
+  },
+  {
+    "id": "8f8f6819-6aa4-45e7-98cd-af2468821082",
+    "data": [
+      {
+        "text": "tell me when the ",
+        "userDefined": false
+      },
+      {
+        "text": "deadline",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537454468
+  },
+  {
+    "id": "960c9a39-96f7-4723-97cc-d2b90a8096af",
+    "data": [
+      {
+        "text": "When will the application ",
+        "userDefined": false
+      },
+      {
+        "text": "close",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537553859
+  },
+  {
+    "id": "e856e678-27e3-4028-bf2e-7dce216552f8",
+    "data": [
+      {
+        "text": "deadline",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537456318
+  },
+  {
+    "id": "b74fb099-7d42-4299-82ab-d75685a8e568",
+    "data": [
+      {
+        "text": "deadline",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537454468
+  },
+  {
+    "id": "0cecfd11-01c7-4806-b92b-408f06cdd005",
+    "data": [
+      {
+        "text": "When is the ",
+        "userDefined": false
+      },
+      {
+        "text": "last date",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": " to apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537454468
+  },
+  {
+    "id": "641f1741-725f-40ca-baf0-26f1dc34894a",
+    "data": [
+      {
+        "text": "when",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is the ",
+        "userDefined": false
+      },
+      {
+        "text": "deadline",
+        "alias": "deadline",
+        "meta": "@deadline",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537456318
+  }
+]

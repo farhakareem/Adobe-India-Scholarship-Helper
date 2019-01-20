@@ -1,0 +1,67 @@
+{
+  "id": "9bb32c6d-4c41-490f-a0d9-40f80e602d7f",
+  "name": "Where-apply",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eb8694db-2834-4ca8-85e5-92fecc06364f",
+          "required": false,
+          "dataType": "@scholarship",
+          "name": "scholarship",
+          "value": "$scholarship",
+          "isList": false
+        },
+        {
+          "id": "fc526a59-54a5-4cbb-807a-618b9400887b",
+          "required": false,
+          "dataType": "@website",
+          "name": "website",
+          "value": "$website",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "Adobe India Women In Technology Scholarship",
+          "formattedText": "At Adobe, we’re focused on bringing together the smartest, most driven, diverse set of individuals and give them the freedom to nurture their intellectual curiosity. We provide them with the necessary resources and support to shape their ideas into tangible results.",
+          "image": {
+            "url": "https://research.adobe.com/wp-content/uploads/2017/08/AdobeStock_127885712_s.jpg",
+            "accessibilityText": "Fresh Ideas"
+          },
+          "buttons": [
+            {
+              "title": "Go to website",
+              "openUrlAction": {
+                "url": "https://research.adobe.com/forms/adobe-india-women-in-technology-scholarship/index.php",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You just need to apply from Adobe India Women In Tech Scholarship website! Is there anything else that you would like to know about?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537789715,
+  "fallbackIntent": false,
+  "events": []
+}

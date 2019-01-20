@@ -1,0 +1,122 @@
+[
+  {
+    "id": "d3401a3c-84ba-4ce3-b9c3-560ee5134bcb",
+    "data": [
+      {
+        "text": "What should be included in the application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537504594
+  },
+  {
+    "id": "af3869e2-1f46-40c1-b907-a46325d77d7e",
+    "data": [
+      {
+        "text": "What all should the application include?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537504594
+  },
+  {
+    "id": "b20e3896-2bea-4530-a2d8-b1ec49b6938e",
+    "data": [
+      {
+        "text": "Tell me about the application process",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537553709
+  },
+  {
+    "id": "488f9554-0454-4a4e-b08d-12dc1c21eaa9",
+    "data": [
+      {
+        "text": "What are the requirements for the application?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537504594
+  },
+  {
+    "id": "b610b94a-e11f-410b-9841-8a46ba399494",
+    "data": [
+      {
+        "text": "What is the application procedure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537552438
+  },
+  {
+    "id": "558eadac-3f1a-4e22-8856-e6bf01b3341e",
+    "data": [
+      {
+        "text": "Do we need to submit a resume?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537504651
+  },
+  {
+    "id": "708f9c06-f8d0-46cd-bf4c-949ac40d1f4b",
+    "data": [
+      {
+        "text": "How to apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537551955
+  },
+  {
+    "id": "cd19c001-0d7c-4dbe-87ee-3a78c0e653a6",
+    "data": [
+      {
+        "text": "Do we need to submit our transcripts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537504651
+  },
+  {
+    "id": "c746dd96-5262-4194-a227-d6afe385df02",
+    "data": [
+      {
+        "text": "What is the application process?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537551955
+  },
+  {
+    "id": "e4b9bf86-4c30-4d49-ba7b-f458464082d4",
+    "data": [
+      {
+        "text": "What all do we have to submit?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537504594
+  }
+]
